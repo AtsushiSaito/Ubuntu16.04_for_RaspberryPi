@@ -1,6 +1,6 @@
-# Ubuntu16.04-Image
+# Ubuntu16.04-Image for RaspberryPi 3B+
 
-このリポジトリはRaspberryPi向けのUbuntu16.04のイメージデータ置き場です。
+このリポジトリはRaspberryPi 3B+に対応したUbuntu16.04のイメージデータ置き場です。
 
 公式イメージからの変更点は以下のサイトにまとめてあります。
 
