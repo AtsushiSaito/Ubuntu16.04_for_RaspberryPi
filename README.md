@@ -1,17 +1,16 @@
 # Ubuntu16.04_for_RaspberryPi
 
-## 概要
-このリポジトリはRaspberryPi 3B+に対応したUbuntu16.04のイメージデータ置き場です。
+## Overview
+This repository a place for UbuntuServer 16.04 images that supported Raspberry Pi 3B Plus.
 
-## 動作確認済みモデル
+## Confirmed Model
 * RaspberryPi 3B+
 * RaspberryPi 3B
 
-公式イメージからの変更点は以下のサイトにまとめてあります。
-
+## How to create an image?
 https://www.asrobot.me/entry/2018/07/11/001603
 
-## ライセンス
+## License
 * Ubuntu Server 16.04.4
     * https://wiki.ubuntu.com/ARM/RaspberryPi
     * GPLv3 License
